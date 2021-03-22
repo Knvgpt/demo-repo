@@ -8,3 +8,5 @@ ofhfhhfdhfwhdfhwdf
 This is trying out stuff.
 
 okay that's cool mate.
+
+fetch worked now let's check for pull
