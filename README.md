@@ -12,3 +12,6 @@ okay that's cool mate.
 fetch worked now let's check for pull
 
 pull worked as well NOICE!!
+
+let's check for push
+
